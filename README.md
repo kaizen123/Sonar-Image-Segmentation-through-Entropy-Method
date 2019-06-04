@@ -1,6 +1,6 @@
 # Sonar Image Segmentation via Entropy Method
 
-Author: Shuyue Jia (Bruce Jia)
+Author: Shuyue Jia (Bruce Jia) and Ziyu Huo
 
 Date: June of 2018
 
