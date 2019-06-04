@@ -28,10 +28,6 @@ Date: June of 2018
 
 ![](https://github.com/SuperBruceJia/Sonar-Image-Segmentation-through-Entropy-Method/blob/master/codes/Localization.jpg)
 
-# Ship Boundaries Extraction (Left & Right Pixel)
-
-![](https://github.com/SuperBruceJia/Sonar-Image-Segmentation-through-Entropy-Method/blob/master/codes/jg_recreate.jpg)
-
 # Remove Ship Boundaries
 
 ![](https://github.com/SuperBruceJia/Sonar-Image-Segmentation-through-Entropy-Method/blob/master/codes/Dilate_New_Img.jpg)
