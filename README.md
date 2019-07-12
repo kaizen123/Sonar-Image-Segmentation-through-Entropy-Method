@@ -12,7 +12,7 @@ Date: June of 2018
 
 ![](https://github.com/SuperBruceJia/Sonar-Image-Segmentation-through-Entropy-Method/blob/master/codes/Img_gray.jpg)
 
-# Denise the Image: DCT (Discrete Cosine Transform) 
+# Denoise the Image: DCT (Discrete Cosine Transform) 
 
 ![](https://github.com/SuperBruceJia/Sonar-Image-Segmentation-through-Entropy-Method/blob/master/codes/Img_Denoise.jpg)
 
