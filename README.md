@@ -47,5 +47,3 @@ Date: June of 2018
 # Postprocessing
 
 ![](https://github.com/SuperBruceJia/Sonar-Image-Segmentation-through-Entropy-Method/blob/master/codes/Final_Image.jpg)
-
-If you guys have any problem on this, please WeChat me: fei0521yu0212 or add me as Facebook friend: https://www.facebook.com/SuperBruceJia. I'm pretty happy to help!
